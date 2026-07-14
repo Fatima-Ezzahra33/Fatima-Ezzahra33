@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## 👩‍💻 About Me
 
 🎓 4th-year Computer Engineering student at the **National School of Applied Sciences of Tangier (ENSAT)**.
@@ -25,8 +23,6 @@ I'm passionate about designing software that bridges **technology, business, and
 My main interest is **Information Systems**, where software engineering, enterprise processes, analytics, and AI come together to solve real-world problems and improve decision-making.
 
 I enjoy transforming ideas into scalable, reliable, and user-focused applications.
-
----
 
 ## 🚀 Currently Exploring
 
